@@ -1,0 +1,8 @@
+{
+  "profile": { "username": "demo_creator_1", "followersCount": 25000, "followsCount": 500, "mediaCount": 320 },
+  "posts": [
+    { "id": "p1", "timestamp": "2026-02-01T10:00:00.000Z", "likes": 1200, "comments": 60, "saves": 110, "views": 18000 },
+    { "id": "p2", "timestamp": "2026-01-28T10:00:00.000Z", "likes": 800, "comments": 40, "saves": 70, "views": 12000 },
+    { "id": "p3", "timestamp": "2026-01-25T10:00:00.000Z", "likes": 2000, "comments": 150, "saves": 220, "views": 40000 }
+  ]
+}
